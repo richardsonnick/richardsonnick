@@ -1,5 +1,7 @@
 ## Nick
-Currently ~looking for my next gig.~ working on OpenShift at Red Hat.
+Currently working on OpenShift at Red Hat. 
+
+I <3 TLS
 
 Feel free to contact me if you have something cool going on:
  - [Linkedin](https://www.linkedin.com/in/nicholas-richardson-452bb9143/)
