@@ -1,4 +1,3 @@
-## Nick
 Currently working on OpenShift at Red Hat. 
 
 Feel free to contact me if you have something cool going on:
